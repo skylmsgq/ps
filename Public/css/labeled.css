@@ -1,0 +1,35 @@
+#title{
+	margin-top: 50px;
+}
+
+.logo img{
+	padding-right: 10px;
+	z-index: 999;
+    -webkit-transition: -webkit-transform 0.1s ease-out;
+    -moz-transition: -moz-transform 0.1s ease-out;
+    -ms-transition: -ms-transform 0.1s ease-out;
+    -o-transition: -o-transform 0.1s ease-out;
+    transition: transform 0.1s ease-out;
+}
+
+.logo img:hover{
+    -webkit-transform: scale(1.25);
+    -moz-transform: scale(1.25);
+    -ms-transform: scale(1.25);
+    -o-transform: scale(1.25);
+    transform: scale(1.25);
+}
+
+.search h1{
+	/*font-family: "Microsoft YaHei" ! important; */
+	margin-left: 20px;
+	margin-top: 22px;
+}
+
+#board-grp{
+	padding-top: 20px;
+}
+
+label{
+    width: 94px;
+}

@@ -1,0 +1,15 @@
+news_new表:
+-label_1 背景
+-label_2 陈述
+-label_3 演化
+-label_4 态度
+-label_5 图谱
+-label_6 直接关联
+-label_7 暂无关联
+-user_id 标注用户
+
+user表:
+user_id
+user_category
+last_login_ip
+last_login_time

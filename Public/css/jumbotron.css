@@ -1,0 +1,48 @@
+.jumbotron{
+	margin-top: -21px;
+}
+
+#abstract{
+	padding-bottom: 5px;
+}
+
+#labeled{
+	margin-top: 5px;
+	margin-bottom: -10px;
+}
+
+.added-label{
+	margin-top: 5px;
+	width: 407px;
+}
+
+#news p{
+	font-size: 20px;
+}
+
+#next a{
+	text-decoration: none;
+}
+
+#next h4{
+	padding-top: 70px;
+	z-index: 999;
+    -webkit-transition: -webkit-transform 0.1s ease-out;
+    -moz-transition: -moz-transform 0.1s ease-out;
+    -ms-transition: -ms-transform 0.1s ease-out;
+    -o-transition: -o-transform 0.1s ease-out;
+    transition: transform 0.1s ease-out;
+}
+
+#next h4:hover{
+	-webkit-transform: scale(1.25);
+    -moz-transform: scale(1.25);
+    -ms-transform: scale(1.25);
+    -o-transform: scale(1.25);
+    transform: scale(1.25);
+}
+
+tr,td,th{
+	text-align: center;
+}
+
